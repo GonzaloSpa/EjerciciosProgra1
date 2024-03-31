@@ -14,4 +14,4 @@ def es_numero_natural():
 # ejecutar programa 
 
 numero_natural = es_numero_natural()
-print("Ha ingresado el número natural:", numero_natural)
+print("Ha ingresado el número natural:", numero_natural) 
