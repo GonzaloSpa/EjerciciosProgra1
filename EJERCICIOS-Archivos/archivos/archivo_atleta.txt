@@ -1,0 +1,9 @@
+Basquet
+2.1 altura del atleta 1
+1.8 altura del atleta 2
+1.9 altura del atleta 3
+Futbol
+1.6 altura del atleta 1
+tenis
+1.50 altura del atleta 1
+1.65 altura del atleta 2
